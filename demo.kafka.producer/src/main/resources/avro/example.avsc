@@ -1,0 +1,16 @@
+{
+     "type": "record",
+     "namespace": "com.generated.avro.demo",
+     "name": "JsonRequest",
+     "fields":
+     [
+            {
+                "name": "name",
+                "type": "string"
+            },
+            {
+                "name": "description",
+                "type": "string"
+            }
+     ]
+}
